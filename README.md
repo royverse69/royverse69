@@ -14,7 +14,7 @@ i am just a developer
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=royverse69&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+🚨 NOTE: All the code in repos which contain comments are vibe coded, use them with caution.
 ---
 [![](https://komarev.com/ghpvc/?username=royverse69&icon=0&color=0)](https://visitcount.itsvg.in)
 
